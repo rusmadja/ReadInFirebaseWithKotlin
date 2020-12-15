@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798493443521",
+    "project_id": "test-66785",
+    "storage_bucket": "test-66785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798493443521:android:c6493fa59620a3a109db40",
+        "android_client_info": {
+          "package_name": "com.reouven.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798493443521-adq0s27go8v5o75cf65p0t4cc097nu03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6NtZ94HhqUe5M0PH72aQ1nt2YSSKyWMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798493443521-adq0s27go8v5o75cf65p0t4cc097nu03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
