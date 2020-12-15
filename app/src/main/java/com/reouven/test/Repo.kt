@@ -8,7 +8,7 @@ class Repo {
     fun getUserData():LiveData<MutableList<User>> {
         val dataMutable = MutableLiveData<MutableList<User>>()
         var database = FirebaseDatabase.getInstance().getReference()
-         var query : Query = database.child("User").orderByChild("name").equalTo("elon smadja")
+         var query : Query = database.child("User").orderByChild("name").equalTo("elon musk")
             query.addValueEventListener(object : ValueEventListener {
                 override fun onDataChange(datasnapshot: DataSnapshot) {
                     val listData = mutableListOf<User>()
